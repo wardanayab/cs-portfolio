@@ -12,3 +12,5 @@ This repository contains all my Computer Science projects, organized by subjects
 - [COAL](./COAL) — Assembly Language & Computer Organization projects  
 
 Each folder contains reports, source code, and documentation of the projects.
+
+Connect with me on LinkedIn:[My LinkedIn Profile](https://www.linkedin.com/in/warda-nayab-6548a5388/)
